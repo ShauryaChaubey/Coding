@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //test
     int n;
     cin >> n;
     if(n%2 == 0 && n>2)
